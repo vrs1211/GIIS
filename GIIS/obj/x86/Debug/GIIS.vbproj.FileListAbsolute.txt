@@ -1,0 +1,26 @@
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\bin\Debug\GIIS.exe
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\bin\Debug\GIIS.pdb
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\bin\Debug\GIIS.xml
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\GIIS.exe
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\GIIS.xml
+C:\Users\Vikas\Desktop\GIIS\coding\GIIS\GIIS\obj\x86\Debug\GIIS.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\GIIS.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\GIIS.xml
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\GIIS.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\GIIS.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\GIIS.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\GIIS.xml
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\GIIS.vbproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Debug\WindowsApplication1.Form5.resources

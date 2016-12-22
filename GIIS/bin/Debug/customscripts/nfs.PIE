@@ -1,0 +1,34 @@
+﻿
+
+
+// debug = player.lean_forwards
+
+  if (key.Up AND key.PageUp) then
+ kinect.SmoothPitch = Kinect.SmoothPitch+10
+ end if
+
+if (key.PageDown) then
+kinect.SmoothPitch = Kinect.SmoothPitch-10
+end if
+
+         debug = kinect.exists
+
+
+
+if (keyboard.R + keyboard.S + keyboard.T) then
+kinect.SmoothPitch = 0
+end if
+
+
+ keyboard.up = (player.lean_forwards > 2.5)
+ keyboard.down = (player.lean_backwards >2.5)
+ keyboard.Left = (player.SteeringAngle  < -17)
+ keyboard.right = (player.SteeringAngle  > 17)
+if said("nitro") then
+keyboard.n = true
+wait 3 seconds
+keyboard.n = false
+end if
+
+
+ debug ='left: ' +(player.SteeringAngle  <- 30) +' ' +player.SteeringAngle +'   right: ' +(player.SteeringAngle > 30)

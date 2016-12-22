@@ -1,0 +1,13 @@
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Release\GIIS.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Release\GIIS.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Release\GIIS.xml
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\WindowsApplication1.Form5.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\GIIS.vbproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\GIIS.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\GIIS.xml
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\obj\x86\Release\GIIS.pdb

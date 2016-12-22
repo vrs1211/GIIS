@@ -1,0 +1,100 @@
+(0, 18-May-2014 01:01:26) Initializing PieLog
+(0, 18-May-2014 01:01:26) Initializing filemode variable
+(0, 18-May-2014 01:01:26) Initializing PieSpeech
+(0, 18-May-2014 01:01:26) Initializing PieVariables
+(0, 18-May-2014 01:01:26) Initializing PieCursorUnit
+(0, 18-May-2014 01:01:26) Initializing PieMouse
+(0, 18-May-2014 01:01:26) Initializing PieKeyboard
+(0, 18-May-2014 01:01:26) Initializing PieInput
+(0, 18-May-2014 01:01:26) Initializing PieOSC
+(0, 18-May-2014 01:01:26) Initializing PiePie
+(0, 18-May-2014 01:01:26) Initializing PieFunction
+(0, 18-May-2014 01:01:26) Initializing PieStatement
+(0, 18-May-2014 01:01:26) Initializing PieExpression
+(0, 18-May-2014 01:01:26) Initializing PieJoystick
+(0, 18-May-2014 01:01:26) Initializing PieP5
+(0, 18-May-2014 01:01:26) Initializing PieMidi
+(0, 18-May-2014 01:01:26) Initializing PiePPJoy
+(0, 18-May-2014 01:01:26) Initializing PieRemote
+(0, 18-May-2014 01:01:26) Initializing Pie Speech Recognition
+(0, 18-May-2014 01:01:26) Initializing PieScreen
+(0, 18-May-2014 01:01:26) GetMonitorEDID
+(0, 18-May-2014 01:01:26) Initializing PieWIndow
+(0, 18-May-2014 01:01:26) Initializing PieCursors
+(0, 18-May-2014 01:01:26) Initializing PieZ800
+(0, 18-May-2014 01:01:26) Initializing PieIntersense
+(0, 18-May-2014 01:01:26) Initializing PieFastrak
+(0, 18-May-2014 01:01:26) Initializing PiePPT
+(0, 18-May-2014 01:01:26) Initializing PieTrackIR
+(0, 18-May-2014 01:01:26) Initializing PiePinch
+(0, 18-May-2014 01:01:26) Initializing PieBird
+(0, 18-May-2014 01:01:26) Initializing PieFiveDT
+(0, 18-May-2014 01:01:26) Starting main
+(0, 18-May-2014 01:01:26) Application object initialized
+(0, 18-May-2014 01:01:26) Creating main window
+(0, 18-May-2014 01:01:26) EditorForm.Create
+(0, 18-May-2014 01:01:27) Initialized Bluetooth!
+(0, 18-May-2014 01:01:27) Registered callback!
+(0, 18-May-2014 01:01:27) Registered callback 2!
+(0, 18-May-2014 01:01:27) InquireDevices: Bluetooth Not Ready
+(0, 18-May-2014 01:01:27) Checking command line parameters:
+(0, 18-May-2014 01:01:27)   -customscripts\cs.pie
+(0, 18-May-2014 01:01:27) ClearMidiGui
+(0, 18-May-2014 01:01:27)   /tray
+(0, 18-May-2014 01:01:27) Creating debug window
+(0, 18-May-2014 01:01:27) Assigning exception handler
+(0, 18-May-2014 01:01:27) Creating debug remote control window
+(0, 18-May-2014 01:01:27) Running application
+(0, 18-May-2014 01:01:27) RunButton
+(0, 18-May-2014 01:01:27) Compile>Run
+(0, 18-May-2014 01:01:27) CompileCode
+(0, 18-May-2014 01:01:27) StartingInputMonitor CompileJoystick
+(0, 18-May-2014 01:01:27) EnumerateJoysticks
+(0, 18-May-2014 01:01:27) Enumerated... BadGamePad = False
+(0, 18-May-2014 01:01:27) StartCompileTimeP5 False
+(0, 18-May-2014 01:01:27) StoppingInputMonitor CompileJoystick
+(0, 18-May-2014 01:01:27) StartRuntime
+(0, 18-May-2014 01:01:27) StartingInputMonitor Mouse
+(0, 18-May-2014 01:01:27) StartKeyboardMonitor
+(0, 18-May-2014 01:01:27) StartingInputMonitor keyboard
+(0, 18-May-2014 01:01:27) StartRuntimeJoystick
+(0, 18-May-2014 01:01:27) ************************* False
+(0, 18-May-2014 01:01:29) Creating SpeechRecogniser
+(0, 18-May-2014 01:01:29) SpeechRecogniser.CreateCrammar
+(0, 18-May-2014 01:01:46) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:02:06) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:02:26) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:02:46) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:03:06) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:03:26) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:03:46) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:04:06) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:04:26) Bluetooth search failed Bluetooth Not Ready
+(0, 18-May-2014 01:04:43) Destroying EditorForm
+(0, 18-May-2014 01:04:43) Finalizing PieFiveDT
+(0, 18-May-2014 01:04:43) Finalizing PieBird
+(0, 18-May-2014 01:04:43) Finalizing PiePinch
+(0, 18-May-2014 01:04:43) Finalizing PieTrackIR
+(0, 18-May-2014 01:04:43) Finalizing PiePPT
+(0, 18-May-2014 01:04:43) Finalizing PieFastrak
+(0, 18-May-2014 01:04:43) Finalizing PieIntersense
+(0, 18-May-2014 01:04:43) Finalizing PieZ800
+(0, 18-May-2014 01:04:43) Finalizing PieCursors
+(0, 18-May-2014 01:04:43) Finalizing PieWindow
+(0, 18-May-2014 01:04:43) Finalizing PieScreen
+(0, 18-May-2014 01:04:43) Finalizing Pie Speech Recognition
+(0, 18-May-2014 01:04:45) Finalizing PieRemote
+(0, 18-May-2014 01:04:45) Finalizing PiePPJoy
+(0, 18-May-2014 01:04:45) Finalizing PieMidi
+(0, 18-May-2014 01:04:45) Finalizing PieP5
+(0, 18-May-2014 01:04:45) Finalizing PieJoystick
+(0, 18-May-2014 01:04:45) Finalizing PieStatement
+(0, 18-May-2014 01:04:45) Finalizing PieFunction
+(0, 18-May-2014 01:04:45) Finalizing PiePie
+(0, 18-May-2014 01:04:45) Finalizing PieOSC
+(0, 18-May-2014 01:04:45) Finalizing PieKeyboard
+(0, 18-May-2014 01:04:45) Finalizing PieMouse
+(0, 18-May-2014 01:04:45) Finalizing PieVariables
+(0, 18-May-2014 01:04:45) Finalizing PieSpeech
+(0, 18-May-2014 01:04:45) Finalizing PieLog
+(0, 18-May-2014 01:04:45) Closing log file

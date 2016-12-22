@@ -1,0 +1,1 @@
+"glovepie/PIEFree.exe" -customscripts\"nfs.pie" /tray

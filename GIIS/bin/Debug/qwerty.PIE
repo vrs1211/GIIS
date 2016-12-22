@@ -1,0 +1,61 @@
+
+if (player1.tracking)
+var.rightHand3dDist = sqrt( sqr(player1.rightshoulder.x-player1.righthand.x) + sqr(player1.rightshoulder.y-player1.righthand.y) +  sqr(player1.rightshoulder.z-player1.righthand.z) )
+var.leftHand3dDist = sqrt( sqr(player1.leftshoulder.x-player1.lefthand.x) + sqr(player1.leftshoulder.y-player1.lefthand.y) +  sqr(player1.leftshoulder.z-player1.lefthand.z) )
+if (var.rightHand3dDist > 55 cm && player1.right_arm_forwards > 35 cm)
+if (!var.justIn)
+var.firsInPosX = player1.head.x - player1.righthand.x
+var.firsInPosY = player1.head.y - player1.righthand.y
+var.firsInHandPosX = player1.righthand.x
+var.firsInHandPosY = player1.righthand.y
+var.justIn = true
+mouse.CursorPosX = EnsureMapRange(-var.firsInPosX, -0.2, 0.5, 0, screen.Width)
+mouse.CursorPosY = EnsureMapRange(var.firsInPosY, -0.1, 0.6, 0, screen.Height)
+end if
+var.Dx =   var.firsInHandPosX  - Smooth(player1.righthand.x , 5)
+var.Dy =   var.firsInHandPosY  - Smooth(player1.righthand.y , 5)
+mouse.DirectInputX += Delta(-var.Dx/7)
+mouse.DirectInputY += Delta(var.Dy/7)
+else
+var.justIn = false
+end if
+if ( player1.left_arm_forwards > 25 cm )
+if (!var.justinClick)
+mouse.LeftButton = true
+wait 15ms
+mouse.LeftButton = false
+var.justinClick=true
+end if
+else if ( player1.left_arm_forwards < 25 cm )
+var.justinClick=false
+end if
+if  (((player.head.y - player.leftwrist.y) > 0) && (player.head.y - player.leftwrist.y) < 0.05)
+if (!var.justin2Click)
+mouse.LeftButton = true
+wait 15ms
+mouse.LeftButton = false
+wait 15ms
+mouse.LeftButton = true
+wait 15ms
+mouse.LeftButton = false
+var.justin2Click=true
+end if
+else
+var.justin2Click=false
+end if
+if (player1.left_arm_out > 30 cm )
+mouse.LeftButton = true
+else
+mouse.LeftButton = false
+end if
+if ((player.hipcenter.z - player.leftwrist.z) > 0.2)
+if (!var.justinRClick)
+mouse.RightButton = true
+wait 15ms
+mouse.RightButton = false
+var.justinRClick=true
+else
+var.justinRClick = false
+end if
+end if
+end if

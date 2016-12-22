@@ -1,0 +1,75 @@
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Use of this software is entirely at your own risk. It is provided without any support beyond this document.  
+
+The program was tested on Windows XP and Vista 32-bit version, with Service Pack 2, and .NET framework 2.0 installed.  You may have to download these to make the program run. This version will not work with a 64-bit version of Windows.
+
+About this program
+--------------------------------
+This software allows you to transform any flat projected display or computer display into an interactive whiteboard or tablet screen.  It accomplishes this with the use of the Wii remote and an infrared(IR) light emitting pen. The software translates data from the Wii Remote's infrared camera when viewing the IR pen to control the mouse cursor on a Windows computer. The Wii remote must be positioned to view a display or projector and an infrared emitting pen is used like a stylus.
+
+
+Creating a light pen
+----------------------------------
+This program is meant to be used with IR light pens that may require custom construction.  The pen consists of an infrared (IR) LED and a momentary push-button on switch such that the LED illuminates only while the button is pressed.  This light pen will effectively act as your mouse pointer and the button will act as your left-click. Pens may be available for purchase sometime in the future, but not very soon. You can search online as there many video tutorials on how to make these pens.  I highly recommend using this LED: Vishay TSAL6400 and following the schematic diagram on my website.
+
+Using this program with other types of IR sources may not yield good results results. You may be able to retro-fit an LED keychain with an IR LED to get something working quickly. Typical remote controls do have IR LEDs HOWEVER, remote controls flash the LED which will manifest itself as a lot of rapid clicking.  This may cause undesirable results.  People have had mixed results in using the LED from remote controls as they may not be bright enough.
+
+
+How to use 
+-----------------------------------------------------
+1. You MUST first connect your wiimote to your PC via bluetooth before running  
+the program.  Thie Wiimote will work with a variety of Bluetooth stacks.I previously recommended Blue Soleil, but many have reported problems with that software.
+
+The Wiimote will work with several bluetooth drivers. You may seach online for help connecting your Wii Remote.  You may also find some additional useful information on the forums at http://www.wiimoteproject.com/
+
+2. Launch "WiimoteWhiteboard.exe" in the root directly of the archive. NOTE:  
+ANY visible IR source will trigger mouse events and manipulate your computer.   
+Any unintentional IR sources may result in undesired behavior. BE CAREFUL where you point the wiimote. 
+
+3. Click the button "Calibrate Location" or press the A button on the wiimote to begin touch calibration.  Use your IR light pen to touch each crosshair and activate the LED (as if pressing your mouse button to click).  After 4 points are calibrated, the touch screen should be ready to use.
+
+
+Recalibration (and auto-loading last calibration)
+---------------------------------
+To recalibrate, simply press the calibration button again (note the mouse control may not work yet if the calibration was poor) or press your wiimote A button. When the program is launched, it will reload the last calibration. If your wiimote and display configuration has not changed, re-calibration may not be necessary.
+
+
+Controls
+---------------------------------------
+1. Pressing the A button on the wiimote will activate the calibration once the whiteboard application is running.  If the calibration is already running, this will restart the calibration with the 1st point.
+2. Pressing the esc will exit the calibration screen.
+3. "Cursor Control" will enable or disable mouse control of the stylus
+4. "Smoothing" will average the cursor movement over several samples creating smoother lines, but in exchange for slower tracking.  
+
+
+TROUBLE SHOOTING
+--------------------------------------------
+You may be able to find additional information on the forums at http://www.wiimoteproject.com/
+
+"The program says it can't find the wiimote" - Check that you have gotten the  
+wiimote already connected via bluetooth.  The WiimoteWhiteboard program does not do this for you.  See above in "How to use" for more information. You can search online for help getting your wii remote connect to your PC.
+
+
+"Nothing happens when I activate my light pen on the crosshair" - this can be caused by a variety of problems:
+
+1 .Verify that your light pen is working. Many camera phones are sensitive to IR light, point your camera phone at your pen tip and press the button to see if it illuminates. 
+
+2. Make sure the wiimote can't see a stray IR light source.  When the dialog box is open the region next to "Visible IR dots:" should be blank when not using your light pens. If there is a number there, that means the wiimote can see something which will interfere with tracking.  Numbers should only appear when you activate your light pen in front of the wiimote. 
+
+3. Make sure the wiimote can see your pen - using the "Visible IR dots:" diagnostic, you can tell if the wiimote sees your pen.  Begin by pointing the pen near the front the wiimote.  You should see numbers appear if things are working properly.  As you move toward your screen the numbers should still appear/respond to your light pen. Remember the wiimote uses a camera to see the dot, so think like a camera.  If the numbers stop appearing, either:
+  
+     a) Your light pen has left the field of view of the wiimote and you will have to reposition it to see your whole screen,  Positing the wiimote further away may help.
+     b) The wiimote's view of the pen has been blocked by another object or your body. You must be conscious of the position of your body/hands as to not block the view of the wiimote.
+     c) Your light pen is not bright enough.  This may be because the LED is not receiving enough power.  This may require fixing the power supply (change batteries) or may require modifying the electrical circuit (more power, smaller resistor if you have one) or choosing a brighter LED. 
+
+
+"My lines are really squiggly and tracking is bad" -  The "Tracking Utilization" gives you a review of how much of the camera can see your screen after calibration.  The higher the number the better. (NOTE: this does not update as you move the camera, only after you perform calibration). Remember the Wiimote contains a camera, and the better view the camera has of your screen the higher this number will be and better tracking you will have. So, good placement is the key to good tracking. Getting this number is 100% is very hard or impossible in some cases.  But, if it is below 50% consider giving the wiimote a better view of your screen.
+
+The more direct view the wiimote has of your screen, the better, The closer it is without losing visibility of your screen, the better. The wiimote camera has a 45 degree field of view.  Keep this in mind for placement.  Using the "Visible IR dots" diagnostic on in the software, you can test the visibility of the corners of your screen using your IR pen.  It may be helpful to turn off cursor control for this. Activate the LED at each corner location and check if the Wiimote still sees it. Some squiggilyness is unavoidable, but it can definitely be minimized. 
+
+Increasing the Smoothing amount will help with this problem, but it's only a superficial fix. Increasing the Tracking Utilization is by far more important for getting good tracking results, especially when try to click on small targets.
+
+Version Notes
+-------------------------
+0.2  - improved the mouse simulation to work with more programs, updated wiimote library to version 1.2, added "Tracking Utilization" feedback.
+
+0.3 - added smoothing (thanks for the other people that kept suggesting this), added progress bar feedback of tracking utilization.

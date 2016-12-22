@@ -1,0 +1,13 @@
+﻿
+
+
+// debug = player.lean_forwards
+
+
+ keyboard.up = (player.lean_forwards > 2.5)
+ keyboard.down = (player.lean_backwards >2.5)
+ keyboard.Left = (player.SteeringAngle  < -17)
+ keyboard.right = (player.SteeringAngle  > 17)
+
+
+  debug ='left: ' +(player.SteeringAngle  <- 30) +' ' +player.SteeringAngle +'   right: ' +(player.SteeringAngle > 30)

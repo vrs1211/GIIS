@@ -1,0 +1,32 @@
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\bin\Debug\speech working.exe
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\bin\Debug\speech working.pdb
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\obj\x86\Debug\speech working.csproj.GenerateResource.Cache
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\obj\x86\Debug\speech working.exe
+C:\Users\Sanjay\documents\visual studio 2010\Projects\speech working\speech working\obj\x86\Debug\speech working.pdb
+C:\Users\Sanjay\Documents\Visual Studio 2010\Projects\speech working\speech working\obj\x86\Debug\speech working.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\speech working.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\speech working.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\bin\Debug\speech working.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\bin\Debug\speech working.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\speech working.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\speech working.csproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\speech working.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\speech working.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\bin\Debug\speech working.exe
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\bin\Debug\speech working.pdb
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\speech working.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\speech working.csproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Sanjay\Desktop\GIIS FORMS\GIIS\GIIS\bin\Debug\speech working\speech working\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
